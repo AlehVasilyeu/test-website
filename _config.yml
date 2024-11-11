@@ -24,10 +24,10 @@ author:
   name: "Your Name"
 baseurl: "" # Leave this empty for the root of a GitHub Pages repo
 url: "https://yourusername.github.io" # Change to your GitHub Pages URL
-theme: "minimal-mistakes-jekyll"
+# theme: "minimal-mistakes-jekyll"
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
