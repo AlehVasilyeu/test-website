@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Your Name's Portfolio"
+title: "Test Author's Portfolio"
 description: "A portfolio showcasing my UX design projects."
 author:
-  name: "Your Name"
+  name: "Test Author"
 baseurl: "" # Leave this empty for the root of a GitHub Pages repo
-url: "https://yourusername.github.io" # Change to your GitHub Pages URL
+url: "https://alehvasilyeu.github.io/test-website/" # Change to your GitHub Pages URL
 # theme: "minimal-mistakes-jekyll"
 
 # Build settings
